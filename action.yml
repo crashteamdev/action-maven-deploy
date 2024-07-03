@@ -3,7 +3,7 @@ description: "Pushes package to Maven repository"
 inputs:
   jdk-version:
     description: 'The jdk version to use'
-    default: '17'
+    default: '21'
     required: false
   jdk-distribution:
     description: 'The jdk distribution to use'
